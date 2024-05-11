@@ -1,0 +1,65 @@
+[
+  {
+    "id": "001",
+    "name": "Eco-Friendly Soil",
+    "description": "High-quality soil mix perfect for organic gardens.",
+    "image": "./images/products/product1.jpeg",
+    "price": "20.00"
+  },
+  {
+    "id": "002",
+    "name": "Recycled Plastic Pots",
+    "description": "Durable pots made from 100% recycled plastic.",
+    "image": "./images/products/product2.jpeg",
+    "price": "15.99"
+  },
+  {
+    "id": "003",
+    "name": "Compost Bins",
+    "description": "Efficient compost bins for your sustainable gardening needs.",
+    "image": "./images/products/product3.jpeg",
+    "price": "34.99"
+  },
+  {
+    "id": "004",
+    "name": "Organic Fertilizers",
+    "description": "Nutrient-rich fertilizers for a thriving, organic garden.",
+    "image": "./images/products/product4.jpeg",
+    "price": "10.50"
+  },
+  {
+    "id": "005",
+    "name": "Drip Irrigation Kits",
+    "description": "Efficient irrigation kits for water-wise gardening.",
+    "image": "./images/products/product5.jpeg",
+    "price": "45.00"
+  },
+  {
+    "id": "006",
+    "name": "Garden Toolkits",
+    "description": "Comprehensive toolkits for all your gardening needs.",
+    "image": "./images/products/product6.jpeg",
+    "price": "25.99"
+  },
+  {
+    "id": "007",
+    "name": "Natural Pest Control",
+    "description": "Safe and effective pest control solutions for your garden.",
+    "image": "./images/products/product7.jpeg",
+    "price": "29.99"
+  },
+  {
+    "id": "008",
+    "name": "Raised Garden Beds",
+    "description": "Beautifully crafted raised garden beds for easy gardening.",
+    "image": "./images/products/product8.jpeg",
+    "price": "60.00"
+  },
+  {
+    "id": "009",
+    "name": "Rain Barrels",
+    "description": "Collect rainwater efficiently with eco-friendly rain barrels.",
+    "image": "./images/products/product9.jpeg",
+    "price": "75.50"
+  }
+]

@@ -1,0 +1,48 @@
+/*-----------------FOR HOME PAGE  --------------------*/
+
+.welcome-section {
+  background: url("./images/trees.jpg") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  color: white;
+  max-width: 600px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.9); /* Dark overlay for text readability */
+  border-radius: 15px;
+}
+
+.social-icons a {
+  font-size: 24px; /* Larger social media icons */
+}
+
+.bi {
+  display: inline-block;
+  font-size: 1.5rem;
+  text-align: center;
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+a.text-white {
+  color: white;
+}
+
+.card-image {
+  object-fit: cover; /* Ensures images fill their container proportionally */
+  width: 100%; /* Full width of the card */
+  height: 150px; /* Adjust height as per your design needs */
+}
+
+/*-------------FOR PRODUCT PAGE  --------------------------*/
+/* styles.css */
+.product-card img {
+  height: 200px; /* Fixed height for uniformity */
+  object-fit: cover; /* Ensures images cover the card image area */
+}
